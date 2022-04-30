@@ -1,5 +1,6 @@
 {
   "name": "koyeb-docz",
+  "version": "1.0.0",
   "scripts": {
     "docz:dev": "docz dev",
     "docz:build": "docz build",
