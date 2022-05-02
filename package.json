@@ -7,7 +7,7 @@
     "docz:serve": "docz serve"
   },
   "engines" : { 
-    "npm" : "8.8.0",
+    "npm" : "7.21.0",
     "node" : "16.8.0"
   },
   "dependencies": {
