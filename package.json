@@ -4,7 +4,7 @@
   "scripts": {
     "docz:dev": "docz dev",
     "docz:build": "docz build",
-    "docz:serve": "docz build && docz serve"
+    "docz:serve": "docz serve"
   },
   "engines" : { 
     "node" : "16.8.0"
