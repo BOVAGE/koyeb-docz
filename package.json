@@ -6,6 +6,9 @@
     "docz:build": "docz build",
     "docz:serve": "docz build && docz serve"
   },
+  "engines" : { 
+    "node" : "16.8.0"
+  },
   "dependencies": {
     "docz": "^2.4.0",
     "react": "^16.14.0",
